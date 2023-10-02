@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgkTd079m98vwKfyr6Qdq2/580Id+nmbrbBAJN0FdsG/T+8IYXACymcRGxAGtBYpeJ+8R94t4dwZejboN7HFVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ken\\source\\repos\\Dashboard_WPF\\Dashboard_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ken\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ken\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ken\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Ken\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Ken\\.nuget\\packages\\materialdesignthemes.mahapps\\0.3.0\\materialdesignthemes.mahapps.0.3.0.nupkg.sha512",
+    "C:\\Users\\Ken\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Ken\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
